@@ -1,0 +1,22 @@
+body{
+    background-color: violet;
+    
+}
+div{
+    color: tomato;
+    background-color: gray;
+}
+p{
+    padding: 1.5 em;
+    color:blanchedalmond;
+
+}
+.container1{
+    background: url("images/eiffel.jpg") no-repeat fixed
+               center/cover;
+               height: 150vh;
+}
+.container3 h1{
+         float: right;
+
+}
